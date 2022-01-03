@@ -1,0 +1,86 @@
+{
+  "movie": [
+    {
+      "id" : 1,
+      "name": "Bohemian Rhapsody",
+      "tahun": "10/30/2018",
+      "description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "genre": "Music, Drama, History",
+      "rating": 8.0,
+      "picture": "https://i.ibb.co/jyTb2nw/poster-bohemian.jpg"
+    },
+    {
+      "id" : 2,
+      "name": "Cold Persunit",
+      "tahun": "02/08/2019",
+      "description": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+      "genre": "Action, Crime, Thriller",
+      "rating": 5.7,
+      "picture": "https://i.ibb.co/B3fYQ19/poster-cold-persuit.jpg"
+    },{
+      "id" : 3,
+      "name": "Creed II",
+      "tahun": "11/21/2018",
+      "description": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.on of his late friend and former rival Apollo Creed.",
+      "genre": "Drama",
+      "rating": 6.9,
+      "picture": "https://i.ibb.co/27VRYvk/poster-creed.jpg"
+    },{
+      "id" : 4,
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "tahun": "11/16/2018",
+      "description": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+      "genre": "Adventure, Fantasy, Drama",
+      "rating": 6.9,
+      "picture": "https://i.ibb.co/HGBXbYk/poster-crimes.jpg"
+    },{
+      "id" : 5,
+      "name": "Glass",
+      "tahun": "01/18/2019",
+      "description": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "genre": "Thriller, Drama, science Fiction",
+      "rating": 6.7,
+      "picture": "https://i.ibb.co/8gtfGPb/poster-glass.jpg"
+    },{
+      "id" : 6,
+      "name": "Mary Queen of Scots",
+      "tahun": "12/21/2018",
+      "description": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
+      "genre": "Drama, History",
+      "rating": 6.6,
+      "picture": "https://i.ibb.co/sHmxNgw/poster-marry-queen.jpg"
+    },{
+      "id" : 7,
+      "name": "Mortal Engines",
+      "tahun": "12/14/2018",
+      "description": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+      "genre": "Adventure, Science Fiction",
+      "rating": 6.2,
+      "picture": "https://i.ibb.co/SPr5r0q/poster-mortal-engines.jpg"
+    },{
+      "id" : 8,
+      "name": "Overlord",
+      "tahun": "11/09/2018",
+      "description": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+      "genre": "Horror, War, Science Ficition",
+      "rating": 6.7,
+      "picture": "https://i.ibb.co/4tpgT78/poster-overlord.jpg"
+    },{
+      "id" : 9,
+      "name": "Robin Hood",
+      "tahun": "11/21/2018",
+      "description": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+      "genre": "Adventure, Action, Thriller",
+      "rating": 5.9,
+      "picture": "https://i.ibb.co/sqfHRnj/poster-robin-hood.jpg"
+    },{
+      "id" : 10,
+      "name": "T34",
+      "tahun": "01/01/2019",
+      "description": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+      "genre": "War, Action, Drama, History",
+      "rating": 7.0,
+      "picture": "https://i.ibb.co/HP4bFhQ/poster-t34.jpg"
+    }
+    ]
+}

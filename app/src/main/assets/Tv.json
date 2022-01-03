@@ -1,0 +1,86 @@
+{
+  "tv": [
+    {
+      "id" : 1,
+      "name": "Arrow",
+      "tahun": "2012",
+      "description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+      "genre": "Crime, Drama, Mystery, Action & Adventure",
+      "rating": 6.7,
+      "picture": "https://i.ibb.co/6sdM9W5/tvposter-arrow.jpg"
+    },
+    {
+      "id" : 2,
+      "name": "Doom Patrol",
+      "tahun": "2019",
+      "description": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+      "genre": "Sci-Fi & Fantasy, Drama",
+      "rating": 7.7,
+      "picture": "https://i.ibb.co/nzxYbb8/tvposter-doom-patrol.jpg"
+    },{
+      "id" : 3,
+      "name": "Family Guy",
+      "tahun": "1999",
+      "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "genre": "Animation, Comedy",
+      "rating": 7.1,
+      "picture": "https://i.ibb.co/5sLv81D/tvposter-the-simpson.jpg"
+    },{
+      "id" : 4,
+      "name": "Game of Thrones",
+      "tahun": "2011",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "genre": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+      "rating": 8.4,
+      "picture": "https://i.ibb.co/FzWFPmB/tvposter-god.jpg"
+    },{
+      "id" : 5,
+      "name": "Gotham",
+      "tahun": "2014",
+      "description": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+      "genre": "Drama, Crime, Sci-Fi & Fantasy",
+      "rating": 7.6,
+      "picture": "https://i.ibb.co/LJvSkKv/tvposter-gotham.jpg"
+    },{
+      "id" : 6,
+      "name": "Marvel's Iron Fist",
+      "tahun": "2017",
+      "description": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+      "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "rating": 6.6,
+      "picture": "https://i.ibb.co/KbYPGwD/tvposter-iron-fist.jpg"
+    },{
+      "id" : 7,
+      "name": "Supergirl",
+      "tahun": "2015",
+      "description": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+      "genre": "Drama, Sci-Fi & Fantasy, Action & Adventure",
+      "rating": 7.3,
+      "picture": "https://i.ibb.co/X3h6Hzq/tvposter-supergirl.jpg"
+    },{
+      "id" : 8,
+      "name": "Supernatural",
+      "tahun": "2005",
+      "description": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.",
+      "genre": "Drama, Mystery, Sci-Fi & Fantasy",
+      "rating": 8.2,
+      "picture": "https://i.ibb.co/yNkQ3cp/tvposter-supernatural.jpg"
+    },{
+      "id" : 9,
+      "name": "The Simpsons",
+      "tahun": "1989",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "genre": "Family, Animation, Comedy",
+      "rating": 7.9,
+      "picture": "https://i.ibb.co/5sLv81D/tvposter-the-simpson.jpg"
+    },{
+      "id" : 10,
+      "name": "The Walking Dead",
+      "tahun": "2010",
+      "description": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "picture": "https://i.ibb.co/jJgzwTx/tvposter-the-walking-dead.jpg"
+    }
+    ]
+}
